@@ -16,3 +16,22 @@ Example 2:
 Input: s = "()[]{}"
 Output: true
 """
+
+
+################################
+""" Post Interview Solution """
+################################
+
+def isValidParenthesis(s: str) -> bool:
+        para = []   #stack to check previous parenthesis
+        if len(s)&1 == 1 : return False
+        for k in s :
+            if k == '(' or k == '{' or  k == '[':
+                para.append(k)
+            else :
+                if len(para)==0 or (k == ')' and para[-1] != '(') or (k == '}' and para[-1] != '{') or (k == ']' and  para[-1] != '[') :
+                    return False
+                para = para[:-1]
+        if len(para) > 0 : return False
+
+        return True

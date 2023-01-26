@@ -46,6 +46,34 @@ def anagramExists(str1, str2) :
         index2 += 1
     
     return False
-    
+
+
+#################################### 
+""" Post Interview Correct Solution"""
+####################################
+# Counter function creates frequncy map of given iterable object
+from collections import Counter  
+def anagramExists(s1, s2) :
+    cntr = Counter(s1)       # Frequncy map of string1
+    words = len(s1)
+    match = 0        #Flag to check if all words are matched     
+
+    for i in range(len(s2)):
+        if s2[i] in cntr:
+            if not cntr[s2[i]]: 
+                match -= 1
+            cntr[s2[i]] -= 1
+            if not cntr[s2[i]]: match += 1
+
+        if i >= words and s2[i-words] in cntr:
+            if not cntr[s2[i-words]]: match -= 1
+            cntr[s2[i-words]] += 1
+            if not cntr[s2[i-words]]: match += 1
+
+        if match == len(cntr):
+            return True
+
+    return False
+
 
 
