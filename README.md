@@ -19,3 +19,8 @@ _This repository contains the **questions, code and notes** in the live sessions
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+
+## 🪪License
+
+GNU GENERAL PUBLIC [LICENSE](https://github.com/sahilverma0696/promt.live-interviews/blob/main/LICENSE)
