@@ -27,6 +27,7 @@ Date : 17 Jan 23
 | ----------- | ----------- | ---------------- |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question1.py) | [Leetcode](https://leetcode.com/problems/climbing-stairs/solutions/127722/climbing-stairs/) |
 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question2.py) | [Leetcode](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/2527381/java-c-python-math-solution-o-klogk/) |
+| [Find the right robot/s](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | |
 
 # [System design sessions](https://github.com/sahilverma0696/live-interviews/tree/main/system%20design%20sessions)
 Coming soon...
