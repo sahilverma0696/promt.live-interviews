@@ -28,6 +28,13 @@ Date : 11 Jan 23
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+
+
+## 🪪License
+
+GNU GENERAL PUBLIC [LICENSE](https://github.com/sahilverma0696/promt.live-interviews/blob/main/LICENSE)
+
 -->
 
 <!---
