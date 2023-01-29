@@ -18,23 +18,24 @@ Date : 11 Jan 23
 | Question | Session Code  | Study References |
 | ----------- | ----------- | ---------------- |
 | [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)  | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question.cpp)            |[Leetcode]( https://leetcode.com/problems/shifting-letters/solutions/1451697/c-python-calculate-the-number-of-shifts-on-each-position-clean-concise/)|
-| [Shifting letters 1.5 ](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question3.cpp)    |     [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question3.cpp)  | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/2986446/best-time-to-buy-and-sell-stock-ii-c-solution/)|
-| [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)  | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question3.cpp) |Prefix sum, Line sweep|
+| [Shifting letters 1.5 ](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question2.cpp)    |     [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question2.cpp)  | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/2986446/best-time-to-buy-and-sell-stock-ii-c-solution/)|
+| [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)  | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/11%20Jan/question3.cpp) |[Prefix sum](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/), [Line sweep](https://leetcode.com/discuss/study-guide/2166045/line-sweep-algorithms)|
 
 
 # [System design sessions](https://github.com/sahilverma0696/live-interviews/tree/main/system%20design%20sessions)
-<!---
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
+Coming soon...
 
 ## 🪪License
 
 GNU GENERAL PUBLIC [LICENSE](https://github.com/sahilverma0696/promt.live-interviews/blob/main/LICENSE)
 
+
+
+<!---
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 -->
 
 <!---
