@@ -1,6 +1,6 @@
 """
 
-find an element in a sorted array
+Find an element in a sorted array
 
 is it necessary the element is in the array : Yes 
 size of the array ? 10^5

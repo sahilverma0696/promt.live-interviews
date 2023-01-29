@@ -1,4 +1,6 @@
 """
+Check Palindrome 
+
 Given a string str, check if the characters of string makes a 
 Palindrome. By ignoring the special character,numbers and space.
 

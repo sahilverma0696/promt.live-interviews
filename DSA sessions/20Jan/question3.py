@@ -1,5 +1,5 @@
 """
-
+Search & count in 2d matrix, duplicates allowed
 
 You are given an m x n integer matrix matrix with the following two properties:
 

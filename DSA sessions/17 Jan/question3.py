@@ -1,4 +1,5 @@
 """
+Find the right robot/s.
 
 // Given two inputs,
 
