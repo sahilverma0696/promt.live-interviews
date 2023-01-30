@@ -10,9 +10,9 @@ _This repository contains the **questions, code and notes** in the live sessions
 
 | Question | Session Code | Study References |
 | ----------- | ----------- | ---------------- |
-| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question1.py) | [Leetcode](https://leetcode.com/problems/climbing-stairs/solutions/127722/climbing-stairs/) |
-| [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question2.py) | [Leetcode](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/2527381/java-c-python-math-solution-o-klogk/) |
-| [Find the right robot/s](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question1.py) | [Leetcode](https://leetcode.com/problems/climbing-stairs/solutions/25296/3-4-short-lines-in-every-language/?orderBy=most_votes) |
+| [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Solution](https://github.com/kalebaer/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question2.py) | [Leetcode](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/2527381/java-c-python-math-solution-o-klogk/) |
+| [Find the right robot/s](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/17%20Jan/question3.py) | [1D Array](https://www.toppr.com/guides/computer-science/programming-in-c-/structured-data-type/one-dimensional-array/#:~:text=One%20Dimensional%20Array-,Definition,element%20stored%20in%20the%20array.), [2D Array](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/) |
 
 ---
 
