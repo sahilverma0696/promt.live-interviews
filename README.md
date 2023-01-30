@@ -69,8 +69,11 @@ If you have an idea for a new feature or improvement, please open an issue to di
 5. Submit a pull request to the main repository.
 
 
-### For Interviewees :
-Please make sure to update the README index table above with a description of your changes after submitting your pull request. <br>
+### Necessary Steps For Interviewees :
++ Please make sure to update the README index table above with a description of your changes after submitting your pull request.
++ Do find and add the best resource you think is required to learn the question asked to you.
++ Do add the session video for their questions.
++ Link to the [channel](https://www.youtube.com/@promptdot/streams) for above step.
 
 ## Thank you for your contributions!
 
