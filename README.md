@@ -4,7 +4,17 @@ _This repository contains the **questions, code and notes** in the live sessions
 
 ## 🎯Session links 
 
-# [DSA sessions](https://github.com/sahilverma0696/live-interviews/tree/main/DSA%20sessions/) 
+# [DSA sessions](https://github.com/sahilverma0696/live-interviews/tree/main/DSA%20sessions/)
+
+[Date: 24 Jan 23](https://youtu.be/ZsCq3BXoexU)
+
+| Question | Session Code | Study References |
+| ----------- | ----------- | ---------------- |
+| [Check Palindrome](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Leetcode](https://leetcode.com/problems/valid-palindrome/), [Leetcode](https://leetcode.com/articles/two-pointer-technique/) |
+| [Find Anagram](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question2.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question2.py) | [GFG](https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/) |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question3.py) | [Leetcode](https://leetcode.com/problems/valid-parentheses/solutions/9203/simple-python-solution-with-stack/?orderBy=most_votes) |
+
+---
 
 [Date : 20 Jan 23](https://www.youtube.com/watch?v=1L46qc90sgU&ab_channel=prompt.)
 
