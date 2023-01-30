@@ -6,7 +6,7 @@ _This repository contains the **questions, code and notes** in the live sessions
 
 # [DSA sessions](https://github.com/sahilverma0696/live-interviews/tree/main/DSA%20sessions/) 
 
-Date : 20 Jan 23
+[Date : 20 Jan 23](https://www.youtube.com/watch?v=1L46qc90sgU&ab_channel=prompt.)
 
 | Question | Session Code | Study References |
 | ----------- | ----------- | ---------------- |
