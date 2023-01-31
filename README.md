@@ -10,9 +10,9 @@ _This repository contains the **questions, code and notes** in the live sessions
 
 | Question | Session Code | Study References |
 | ----------- | ----------- | ---------------- |
-| [Check Palindrome](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Leetcode](https://leetcode.com/problems/valid-palindrome/), [Leetcode](https://leetcode.com/articles/two-pointer-technique/) |
+| [125. Check Palindrome](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question1.py) | [Leetcode](https://leetcode.com/problems/valid-palindrome/), [Leetcode](https://leetcode.com/articles/two-pointer-technique/) |
 | [Find Anagram](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question2.py) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question2.py) | [GFG](https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/) |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question3.py) | [Leetcode](https://leetcode.com/problems/valid-parentheses/solutions/9203/simple-python-solution-with-stack/?orderBy=most_votes) |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/sahilverma0696/promt.live-interviews/blob/main/DSA%20sessions/24Jan/question3.py) | [Leetcode](https://leetcode.com/problems/valid-parentheses/solutions/9203/simple-python-solution-with-stack/?orderBy=most_votes) |
 
 ---
 
@@ -59,33 +59,34 @@ Date : 02 Jan 23
 Coming soon...
 
 
-## Contributing
+## 🧑‍🤝‍🧑Contributing
 
 *We welcome contributions to this project!* <br>
 If you have an idea for a new feature or improvement, please open an issue to discuss it with the community before submitting a pull request.
 
 >Here are some guidelines to follow when contributing:
->1. Before making a contribution, please check the project's open issues to see if someone else is already working on something similar. If you have a new suggestion >or    have found a bug, please open a new issue to let us know.
->2. If you want to work on an existing issue or have a new idea for a feature, please comment on the issue to let us know that you are working on it. This will help to >   prevent duplication of effort.
+>1. Before making a contribution, please check the project's open issues to see if someone else is already working on something similar. If you have a new suggestion or    have found a bug, please open a new issue to let us know.
+>2. If you want to work on an existing issue or have a new idea for a feature, please comment on the issue to let us know that you are working on it. This will help to    prevent duplication of effort.
 >3. All contributions should be made via pull request. When submitting a pull request, please make sure to include a clear description of the changes you have made and    why they are necessary.
 >4. All code contributions should be accompanied by tests to ensure that the changes do not break existing functionality.
 >5. If you are making a non-code contribution (e.g. writing documentation, creating graphics), please make sure to follow the project's style guidelines and include any    necessary attribution.
 
 ### To submit a pull request:
+```
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Make your changes.
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
-
+```
 
 ### Necessary Steps For Interviewees :
-+ Please make sure to update the README index table above with a description of your changes after submitting your pull request.
++ Please make sure to update the [README](#dsa-sessions) index table above with a description of your changes after submitting your pull request.
 + Do find and add the best resource you think is required to learn the question asked to you.
 + Do add the session video for their questions.
 + Link to the [channel](https://www.youtube.com/@promptdot/streams) for above step.
 
-## Thank you for your contributions!
+## Thank you❣️ for your contributions!
 
 
 ## 🪪License
