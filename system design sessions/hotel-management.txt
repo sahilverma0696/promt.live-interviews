@@ -1,0 +1,143 @@
+//Raw notes
+
+Hotel management system
+    - It is online system, to manage multiple hotels
+                                    - network of hotels 
+
+Hotel A
+    -> interface for hotels
+    - Add hotel
+    - add room 
+    - updates 
+
+
+User's side 
+    -> searching ( with certain parameters, price range, no. of rooms, location)
+    -> book a hotel rooms
+    -> check in/out
+    -> update booking 
+
+
+
+Analytics side 
+    - what patterns 
+        - room's features 
+        - reviews
+
+
+Non functional requirements
+    - easily scalable
+    - medium latency 
+    - consistency 
+        - medium search database 
+        - transaction, high consistency
+    - highly available 
+
+    
+Back of envelop:
+    - Number of hotels :
+        1000 -> 500k
+    - 500k users -> 10 M users 
+        -> 4-5 M avg number of users 
+    - Number of 
+        max 200 rooms 
+
+Size of data :
+    1 hotel -> 10 mb 
+    hotel
+        name  char 100 
+        rooms number int 
+        5-6 
+            rooms features 
+        price 
+        availability of hotel
+
+    ENUM AMINITIES {
+        AC_ROOM,
+        NON_AC_DELUX,
+
+    }
+
+
+    hotel 
+        name char 100
+        location  char 200
+        description char 1000
+        number of rooms unsigned int 
+        categories of rooms - 5
+        category features for each type of room 
+        cat 1:  -> sub-category for a room 
+             size  char 
+             bathroom number 
+             number of beds or person it can accomodate  uint 
+             ac/non ac bool
+        features 10000 chars
+            parking 
+
+
+
+    500k -> 5x10^5 
+    10 mb -> 10^7
+    5x10^13 bytes of data 
+        50 TB of data 
+    5 M daily users / number of seconds 
+    57 qps 
+
+
+
+
+Feature : update room, with additional pricing ?
+Feature : how to add coupons for discount ?
+
+
+API 
+
+users'end 
+
+    POST /v1/create_user 
+    GET /v1/search_hotels
+    POST /v1/book_hotel
+    PUT /v1/update_booking 
+    GET /v1/get_all_rooms_data
+
+hotel's side 
+    POST /v1/add_room
+    POST /v1/add_hotel 
+
+    blob data 
+    POST /v1/update_blob_data
+
+
+Basic schema
+
+Users table 
+    - userID uuid 
+    - userName varchar2(100)
+    - email varchar2(100)
+    - phone_number varchar2(15)
+    - reviews
+
+
+Hotel table 
+    - hotelID uuid
+    - hotelName varchar2(100)
+    - description varchar2(10000)
+    - location location 
+
+
+room
+    - roomid uuid 
+    - features list or varchar2
+    - number_of_beds number 
+    - price number (uint) // read intense object 
+
+transactions
+    - tid uuid 
+    - hotel id
+    - room id
+    - userID
+
+
+
+
+transactions
